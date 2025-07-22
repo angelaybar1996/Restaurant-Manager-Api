@@ -1,0 +1,15 @@
+C:\Users\al_aybar\Documents\udemyapis\Restaurants.Application\bin\Debug\net8.0\Restaurants.Application.deps.json
+C:\Users\al_aybar\Documents\udemyapis\Restaurants.Application\bin\Debug\net8.0\Restaurants.Application.dll
+C:\Users\al_aybar\Documents\udemyapis\Restaurants.Application\bin\Debug\net8.0\Restaurants.Application.pdb
+C:\Users\al_aybar\Documents\udemyapis\Restaurants.Application\bin\Debug\net8.0\Restaurants.Domain.dll
+C:\Users\al_aybar\Documents\udemyapis\Restaurants.Application\bin\Debug\net8.0\Restaurants.Domain.pdb
+C:\Users\al_aybar\Documents\udemyapis\Restaurants.Application\obj\Debug\net8.0\Restaurants.Application.csproj.AssemblyReference.cache
+C:\Users\al_aybar\Documents\udemyapis\Restaurants.Application\obj\Debug\net8.0\Restaurants.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\al_aybar\Documents\udemyapis\Restaurants.Application\obj\Debug\net8.0\Restaurants.Application.AssemblyInfoInputs.cache
+C:\Users\al_aybar\Documents\udemyapis\Restaurants.Application\obj\Debug\net8.0\Restaurants.Application.AssemblyInfo.cs
+C:\Users\al_aybar\Documents\udemyapis\Restaurants.Application\obj\Debug\net8.0\Restaurants.Application.csproj.CoreCompileInputs.cache
+C:\Users\al_aybar\Documents\udemyapis\Restaurants.Application\obj\Debug\net8.0\Restaura.6AB96A7C.Up2Date
+C:\Users\al_aybar\Documents\udemyapis\Restaurants.Application\obj\Debug\net8.0\Restaurants.Application.dll
+C:\Users\al_aybar\Documents\udemyapis\Restaurants.Application\obj\Debug\net8.0\refint\Restaurants.Application.dll
+C:\Users\al_aybar\Documents\udemyapis\Restaurants.Application\obj\Debug\net8.0\Restaurants.Application.pdb
+C:\Users\al_aybar\Documents\udemyapis\Restaurants.Application\obj\Debug\net8.0\ref\Restaurants.Application.dll
