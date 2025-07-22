@@ -1,17 +1,38 @@
-Restaurant-Manager-Api
+# 🍽️ Restaurant Manager API
 
-API RESTful para la gestión de restaurantes, que incluye autenticación de usuarios, autorización basada en roles (propietario, administrador, etc.), y manejo de recursos como restaurantes y sus platos. Diseñada para ser simple, segura y extensible.
+API RESTful para la gestión de restaurantes. Permite a los usuarios registrarse, iniciar sesión, administrar sus propios restaurantes y platos, todo con un sistema de roles bien definido. Diseñada para ser **simple, segura y extensible**.
 
-🔧 Características principales:
+---
 
-Registro e inicio de sesión de usuarios (identidad).
+## 🚀 Tecnologías utilizadas
 
-Control de acceso mediante roles:
+- 🟢 .net/C#
+- 🗄️ Base de datos (SQL Server)
+- 🔐 Autenticación con JWT
+- 🛡️ Autorización basada en roles
 
-     Administrador: gestión total de cuentas.
-     Propietario: puede crear y administrar sus propios restaurantes.
-CRUD de restaurantes.
+---
 
-CRUD de platos asociados a restaurantes.
+## 🔧 Características principales
 
-Autorización por recursos: los usuarios sólo pueden modificar lo que les pertenece (si no son administradores).
+### 🔐 Autenticación & Autorización
+- ✅ Registro e inicio de sesión de usuarios
+- 👤 Identidad persistente con tokens JWT
+- 🔐 Autorización por **roles**:
+  - 👑 **Administrador:** acceso total al sistema (usuarios, restaurantes, etc.)
+  - 🧑‍🍳 **Propietario:** puede crear y administrar sus propios restaurantes y platos
+
+### 🧩 Gestión de Recursos
+
+#### 📍 Restaurantes
+- 🔄 CRUD completo (Crear, Leer, Actualizar, Eliminar)
+- Asociados directamente al usuario propietario
+
+#### 🍽️ Platos
+- 📌 CRUD de platos por restaurante
+- Cada plato está ligado a un restaurante específico
+
+### 🛡️ Seguridad y permisos
+- 🔏 Los usuarios solo pueden modificar sus propios recursos
+- 🔐 Los administradores pueden ver y gestionar todo
+
