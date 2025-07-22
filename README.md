@@ -11,5 +11,7 @@ Control de acceso mediante roles:
      Administrador: gestión total de cuentas.
      Propietario: puede crear y administrar sus propios restaurantes.
 CRUD de restaurantes.
+
 CRUD de platos asociados a restaurantes.
+
 Autorización por recursos: los usuarios sólo pueden modificar lo que les pertenece (si no son administradores).
