@@ -3,7 +3,9 @@ Restaurant-Manager-Api
 API RESTful para la gestión de restaurantes, que incluye autenticación de usuarios, autorización basada en roles (propietario, administrador, etc.), y manejo de recursos como restaurantes y sus platos. Diseñada para ser simple, segura y extensible.
 
 🔧 Características principales:
+
 Registro e inicio de sesión de usuarios (identidad).
+
 Control de acceso mediante roles:
 
      Administrador: gestión total de cuentas.
