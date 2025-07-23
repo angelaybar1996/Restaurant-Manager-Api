@@ -17,3 +17,4 @@ C:\Users\al_aybar\Documents\udemyapis\Restaurants.Infrastructure\obj\Debug\net8.
 C:\Users\al_aybar\Documents\udemyapis\Restaurants.Infrastructure\obj\Debug\net8.0\Restaurants.Infrastructure.pdb
 C:\Users\al_aybar\Documents\udemyapis\Restaurants.Infrastructure\obj\Debug\net8.0\Restaurants.Infrastructure.genruntimeconfig.cache
 C:\Users\al_aybar\Documents\udemyapis\Restaurants.Infrastructure\obj\Debug\net8.0\ref\Restaurants.Infrastructure.dll
+C:\Users\al_aybar\Documents\udemyapis\Restaurants.Infrastructure\obj\Debug\net8.0\Restaurants.Infrastructure.sourcelink.json

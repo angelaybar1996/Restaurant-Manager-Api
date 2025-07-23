@@ -1,3 +1,4 @@
+using Microsoft.Extensions.Configuration;
 using Restaurants.API.Services;
 using Restaurants.Infrastructure.Extensions;
 
@@ -12,7 +13,7 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddScoped<IWeatherForecastService, WeatherForecastService>();
 
-builder.Services.AddInfrastructure();
+builder.Services.AddInfrastructure(builder.Configuration);
 
 
 var app = builder.Build();
